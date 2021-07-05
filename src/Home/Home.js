@@ -77,7 +77,7 @@ function Home() {
         
         
 
-             
+             <Item/>
         </div>
       
    
