@@ -1,0 +1,25 @@
+.footer_bar {
+
+ 
+     display: flex;
+    background-color: transparent;
+    background: none;
+    justify-content: center;
+    justify-items: center;
+  
+     /* margin-left: 00px !important;  */
+     }
+
+     .footer_link{
+      
+        color: black;
+        margin-left: 20px;
+        margin-top: 5px;
+
+      }
+
+
+      .privacy_content{
+        max-width: 800px;
+        margin: 0 auto;
+      }

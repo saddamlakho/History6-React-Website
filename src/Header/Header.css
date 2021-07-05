@@ -1,0 +1,267 @@
+
+ .header {
+    display: flex;
+    position: sticky;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    /* padding: 5px; */
+     /* padding-top: 15px; */
+    display: flex;
+    background-color: transparent;
+    background: none;
+    position: fixed;
+  
+    width: 100vw;
+    margin:15px; 
+    /* margin-top: 15px;  */
+     top: 0;
+    z-index: 100;
+  } 
+  
+  .header__logoImg {
+    object-fit: contain;
+     flex: 1;  
+    width: 290px;
+    height: 150px;
+     margin-top: -25px; 
+     /* color: antiquewhite; */
+    /* margin-bottom: 100px; */
+
+    margin-right: 700px;
+  }
+  
+  
+ .header__menu{
+  position: absolute; 
+   top: 15%;
+  margin-bottom: 10%;
+  
+} 
+
+@media screen and (max-width: 600px) {
+  .header__logoImg{
+    /* margin-top: 4px;  */
+    /* margin-right: 10px; */
+    width: 150px;
+    height: 70px;
+  }
+}
+
+
+
+/* 
+  //for Search// */
+
+/* .searchBox {
+    position: absolute;
+    
+     left: 63%; 
+     top: -10%;
+    transform:  translate(-50%,50%);
+    background: #2f3640;
+   
+  
+    border-radius: 40px;
+    padding: 5px;
+
+}
+
+.searchBox:hover > .searchInput {
+    width: 240px;
+    padding: 0 6px;
+}
+
+.searchBox:hover > .searchButton {
+  background: white;
+  color : #2f3640;
+}
+
+.searchButton {
+    color: white;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+}
+
+.searchInput {
+    border:none;
+    background: none;
+    outline:none;
+    float:left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+    
+
+
+}
+
+@media screen and (max-width: 1122px) {
+.searchBox:hover > .searchInput {
+    width: 150px;
+    padding: 0 6px; 
+    position: relative;
+    left:30%;
+    
+    
+}
+}
+
+
+@media screen and (max-width: 1120px) {
+  .searchBox {
+      
+      position: relative;
+      left:10%; 
+      
+      
+  }
+  }
+
+
+
+    @media screen and (max-width: 744px) {
+      h1 {
+          
+        font-size: 300px !important;
+       
+          
+          
+      }
+      } 
+
+
+/* .nav-links{
+
+margin: 60px;
+margin-left: 10px;
+border: 2px solid black;
+padding: 10px;
+border-radius: 10%;
+
+}
+
+.nav-links1{
+
+  margin: 60px;
+  margin-left: 10px;
+  border: 2px solid black;
+padding: 10px;
+border-radius: 10%;
+  
+  
+  }
+  
+  .nav-links:hover{
+    text-decoration: none;
+  }
+
+  .nav-links1:hover{
+    text-decoration: none;
+
+  }
+
+
+  @media screen and (max-width: 1340px) {
+    .nav-links {
+     margin-left: 100px;
+    }
+  } */
+
+/* .inline-flex1 {
+
+margin-left: 1000px !important;
+
+}
+
+.inline-flex2 {
+  margin-right: 50px !important; 
+} */
+
+.header_btn{
+  float: right;
+  height: 50px;
+  border-radius: 25px;
+  /* top: -10; */
+  width: 150px;
+  margin: 10px;
+  position: relative;
+  left: 75%;
+  box-shadow: 0 0 20px #eee;
+  color: rgb(20, 10, 10);
+  background: transparent;
+  font-size: 20px;
+  /* background-image: linear-gradient(to right, #DD5E89 0%, #F7BB97 51%, #DD5E89 100%) */
+}
+
+
+.header_btn:hover{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  margin: 8px 10px 12px;
+  color: #eee;
+ 
+}
+
+@media screen and (max-width: 1350px) {
+  .header_btn{
+    position: relative;
+    left:-00%; 
+    
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .header_btn{
+    position: relative;
+    left:-160%; 
+    
+  }
+}
+
+
+@media screen and (max-width: 1110px) {
+  .header_btn{
+    position: relative;
+    left:-300%; 
+
+  }
+}
+
+@media screen and (max-width: 910px) {
+  .header_btn{
+    position: relative;
+    left:-450%; 
+    
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .header_btn{
+    position: relative;
+    left:-490%; 
+  width: -20px;
+  height: 40px;
+  font-size: 15px;
+  
+
+    
+  }
+}
+
+
+.gradient-button-1 {background-image: linear-gradient(to right, #DD5E89 0%, #F7BB97 51%, #DD5E89 100%)}
+.gradient-button-1:hover { background-position: right center; }
+

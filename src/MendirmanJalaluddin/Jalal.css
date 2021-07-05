@@ -1,0 +1,38 @@
+
+  
+  /* Grid styles -------------------------------------------------*/
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 30px;
+  }
+  
+  
+  /* Generic styles ----------------------------------------------*/
+   
+  .cards {
+    max-width: 1000px;
+    margin: 0 auto 30px;
+  }
+  
+  article {
+    position: relative;
+  }
+  
+  .article-img {
+    height: 400px;
+    width: 100%;
+    cursor: pointer;
+    object-fit: cover;
+  }
+  
+  h2 {
+      text-align: center;
+      background-color: antiquewhite;
+  }
+  
+  @media screen and (max-width: 544px) {
+    .cards{
+     margin: 30px;
+    }
+  }

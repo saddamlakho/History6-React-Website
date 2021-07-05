@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.subtitles_btn{
+    margin-top: 650px;
+    margin-left: 200px;
+    justify-content: space-between;
+    padding: 100px;
+    flex-direction: column;
+    
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 12% !important ;
+    font-size: 100px !important;
+    color: rgb(16, 138, 245);
+}
+
+@media screen and (max-width: 925px) {
+    .subtitles_btn {
+        margin-left: 650px;
+        
+
+    }
+  }
+
+  @media screen and (max-width: 744px) {
+    h1 {
+    font-size: 50px !important;
+    
+        
+
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .subtitles_btn {
+       
+        position: relative;
+        bottom: 25%;
+
+    }
+  }
