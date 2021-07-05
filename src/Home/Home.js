@@ -69,6 +69,7 @@ function Home() {
             /> 
            
           <Footer/>
+          <Item className="item_page" />
            <div>
           
            </div>
@@ -77,7 +78,7 @@ function Home() {
         
         
 
-             <Item/>
+           
         </div>
       
    
