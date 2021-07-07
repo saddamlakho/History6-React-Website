@@ -2,9 +2,9 @@ import React from 'react'
 import Fade from 'react-reveal/Fade';
 import './Scroll.css'
 // import Button from '../Buttons/Button'
- import Neaon1 from '../Neaon/Neaon1'
-
-
+import Neaon1 from '../Neaon/Neaon1'
+import '../Item/item.css'
+import '../Buttons/Button.css'
 
 
 const Scroll = ({title,title2, backgroungImg, link,leftBtnText,leftBtnLink,rightBtnText,rightBtnLink,twoButtons}) => {

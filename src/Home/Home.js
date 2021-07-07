@@ -5,7 +5,7 @@ import BuyukSelcuklu from '../assets/BuyukSelcuklu.jpg'
 import Jalaluddin from '../assets/Jalaluddin.jpeg'
 import Ertugrul from '../assets/Ertugrul.jpg'
 import Barbarosa from '../assets/Barbarosa.jpg'
-import Item from '../Item/Item';
+// import Item from '../Item/Item';
 import Scroll00 from '../Scroll/Scroll00'
 import Scroll from '../Scroll/Scroll'
 import Scroll2 from '../Scroll/Scroll2'
@@ -13,8 +13,8 @@ import Scroll3 from '../Scroll/Scroll3'
 import Scroll4 from '../Scroll/Scroll4'
 // import Second from '../SecondPage/Second'
 import Menu from '../Header/Menu'
-import Footer from '../Footer/Footer'
 import {Helmet} from 'react-helmet'
+import Footer from '../Footer/Footer'
 
 
 
@@ -34,7 +34,8 @@ function Home() {
   
        <Helmet>
          <title>
-           Dirilis Ertugrul in Urdu  Kurulus Osman in Urdu
+           Dirilis Ertugrul in Urdu English Kurulus Osman in Urdu
+           English
          </title>
        </Helmet>
      
@@ -67,9 +68,9 @@ function Home() {
            title="Medirman Jalal ud din" 
            backgroungImg={Jalaluddin}
             /> 
+            <Footer/>
            
-          <Footer/>
-          <Item className="item_page" />
+          {/* <Item className="item_page" /> */}
            <div>
           
            </div>
