@@ -28,7 +28,7 @@ h1 {
   @media screen and (max-width: 900px) {
     .subtitles_btn {
      position: relative;
-     bottom: 90%;
+     bottom: 100%;
     }
   }
 
@@ -42,12 +42,15 @@ h1 {
     }
   }
 
+
+
+
   @media screen and (max-width: 500px) {
     .subtitles_btn {
        
         position: relative;
        
-        bottom: 90%;
+        bottom: 140%;
 
     }
   }
