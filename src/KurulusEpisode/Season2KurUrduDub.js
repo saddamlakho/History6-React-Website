@@ -184,7 +184,7 @@ function Season2KurUrduDub() {
           
         </article>
 
-          {/* <article>
+           <article>
              <h2> Episode 15
              <Link exact to="/kurulus-osman-season2-urdu-dubbing-15">
            
@@ -193,10 +193,88 @@ function Season2KurUrduDub() {
            
             </h2>
           
-        </article>  */}
+        </article>  
 
 
 </Fade>
+
+
+
+<Fade right>
+         <article>
+          <h2> Episode 16
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-16">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 16" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+        <article>
+             <h2> Episode 17
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-17">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 17" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+           {/* <article>
+             <h2> Episode 18
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-18">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 18" />
+          </Link>
+           
+            </h2>
+          
+        </article>   */}
+
+
+</Fade>
+
+{/* <Fade left>
+         <article>
+          <h2> Episode 19
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-19">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 19" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+        <article>
+             <h2> Episode 20
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-20">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 20" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+           <article>
+             <h2> Episode 21
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-21">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 21" />
+          </Link>
+           
+            </h2>
+          
+        </article>   
+
+
+</Fade>
+ */}
+
 
 
 </section>
