@@ -22,7 +22,7 @@ function Neaon2() {
     <div id="circle"></div>
   
     <Link  exact  to="/kurulus-osman-urdu-subtitles">
-      <h4>Urdu Subtites</h4>
+      <h4>Urdu Subtitles</h4>
     </Link> 
   </div>
   

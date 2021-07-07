@@ -37,6 +37,10 @@ function Home() {
            Dirilis Ertugrul in Urdu English Kurulus Osman in Urdu
            English
          </title>
+         <meta name="description" content="Watch Turkish Series Dirilis Ertugrul Kurulus Osman Buyuk Selcuklu Mendirman Jaloluddin and Turkish Movies with Urdu Subtitles and  English Subtitles Without any Problem visit www.history6.com" />
+
+         <meta name="keywords" content="Kurulus Osman Buyuk Selcuklu Dirilis Ertugrul Mendirman Jaloluddin Geliyor Tukler Geliyor" />
+         <link rel="canonical" href="https://history6.com/" />
        </Helmet>
      
        <Header isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />

@@ -21,7 +21,7 @@ h1 {
 @media screen and (max-width: 925px) {
     .subtitles_btn {
         margin-left: 650px;
-
+        
     }
   }
 
@@ -37,7 +37,8 @@ h1 {
     font-size: 50px !important;
     margin-bottom: 20%;
     
-        
+    height: 100px;
+    width: 200px;
 
     }
   }
@@ -50,7 +51,7 @@ h1 {
        
         position: relative;
        
-        bottom: 180%;
+        bottom:  220%;
 
     }
   }

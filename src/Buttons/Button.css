@@ -31,4 +31,15 @@ opacity: 0.65;
     color:black;
 }
 
+/* 
 
+@media screen and (max-width: 500px) {
+    .button {
+       
+        height: 52px;
+        width: 200px;
+        
+    }
+
+  
+  } */

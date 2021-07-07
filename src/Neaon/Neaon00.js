@@ -17,7 +17,7 @@ function Neaon00() {
     <div id="circle"></div>
   
     <Link  exact  to="/barbarosa-urdu-subtitles">
-      <h4>Urdu Subtites</h4>
+      <h4>Urdu Subtitles</h4>
     </Link> 
   </div>
   
