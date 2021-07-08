@@ -223,7 +223,7 @@ function Season2KurUrduDub() {
           
         </article>
 
-           {/* <article>
+            <article>
              <h2> Episode 18
              <Link exact to="/kurulus-osman-season2-urdu-dubbing-18">
            
@@ -232,7 +232,7 @@ function Season2KurUrduDub() {
            
             </h2>
           
-        </article>   */}
+        </article>  
 
 
 </Fade>
