@@ -4,8 +4,8 @@ import Header from '../Header/Header'
 import Fade from 'react-reveal/Fade';
 import './Realease.css';
 import { Link } from 'react-router-dom';
-import Episode12Pic from './Episode12Pic.jpg'
-import Ertugrul46Pic from './Ertugrul46Pic.jpg'
+// import Episode12Pic from './Episode12Pic.jpg'
+// import Ertugrul46Pic from './Ertugrul46Pic.jpg'
 import Ertugrul47Pic from './Ertugrul47Pic.jpg'
 import Osman14Pic from './Osman14Pic.jpg'
 

@@ -12,7 +12,7 @@ function DirilisSeason4Urdu50() {
         <h1>Episode  50</h1>
       <div style={{ paddingTop: "56.25%", width: "100%", overflow: 'hidden', position: 'relative' }} > 
 
-    <iframe id="okvid"  className="responsive-iframe" src="https://www.youtube.com/embed/Dz6Two1MZY4"    frameborder="0" allow="autoplay" allowfullscreen=""></iframe>                       
+    <iframe id="youtube" title="Dirilis Ertugrul" className="responsive-iframe" src="https://www.youtube.com/embed/Dz6Two1MZY4"    frameborder="0" allow="autoplay" allowfullscreen=""></iframe>                       
 
         </div> 
         </div>
