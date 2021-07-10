@@ -55,6 +55,8 @@ import Osman16 from './NewRealease/KurulusRealeaseEpisode/Osman16'
 import Osman17 from './NewRealease/KurulusRealeaseEpisode/Osman17'
 import Osman18 from './NewRealease/KurulusRealeaseEpisode/Osman18'
 import Osman19 from './NewRealease/KurulusRealeaseEpisode/Osman19'
+import Osman20 from './NewRealease/KurulusRealeaseEpisode/Osman20'
+
 
 
 
@@ -256,7 +258,7 @@ import Kurulus2Urdu16 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu16'
 import Kurulus2Urdu17 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu17'
 import Kurulus2Urdu18 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu18'
 import Kurulus2Urdu19 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu19'
-// import Kurulus2Urdu20 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu20'
+ import Kurulus2Urdu20 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu20'
 // import Kurulus2Urdu21 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu21'
 // import Kurulus2Urdu22 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu22'
 // import Kurulus2Urdu23 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu23'
@@ -947,6 +949,8 @@ function App() {
            <Route exact path="/new-realease-kurulus-osman-season2-episode-17" component={Osman17} />
            <Route exact path="/new-realease-kurulus-osman-season2-episode-18" component={Osman18} />
            <Route exact path="/new-realease-kurulus-osman-season2-episode-19" component={Osman19} />
+           <Route exact path="/new-realease-kurulus-osman-season2-episode-20" component={Osman20} />
+
 
 
 
@@ -1174,8 +1178,8 @@ function App() {
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-17" component={Kurulus2Urdu17} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-18" component={Kurulus2Urdu18} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-19" component={Kurulus2Urdu19} />
-        {/* <Route exact path="/kurulus-osman-season2-urdu-dubbing-20" component={Kurulus2Urdu20} />
-        <Route exact path="/kurulus-osman-season2-urdu-dubbing-21" component={Kurulus2Urdu21} />
+        <Route exact path="/kurulus-osman-season2-urdu-dubbing-20" component={Kurulus2Urdu20} />
+        {/* <Route exact path="/kurulus-osman-season2-urdu-dubbing-21" component={Kurulus2Urdu21} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-22" component={Kurulus2Urdu22} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-23" component={Kurulus2Urdu23} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-24" component={Kurulus2Urdu24} />
