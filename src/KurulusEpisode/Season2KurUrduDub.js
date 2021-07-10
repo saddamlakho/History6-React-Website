@@ -237,7 +237,7 @@ function Season2KurUrduDub() {
 
 </Fade>
 
-{/* <Fade left>
+ <Fade left>
          <article>
           <h2> Episode 19
              <Link exact to="/kurulus-osman-season2-urdu-dubbing-19">
@@ -249,7 +249,7 @@ function Season2KurUrduDub() {
           
         </article>
 
-        <article>
+        {/* <article>
              <h2> Episode 20
              <Link exact to="/kurulus-osman-season2-urdu-dubbing-20">
            
@@ -269,11 +269,11 @@ function Season2KurUrduDub() {
            
             </h2>
           
-        </article>   
+        </article>    */}
 
 
 </Fade>
- */}
+ 
 
 
 

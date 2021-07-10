@@ -592,7 +592,270 @@ function Season4ErtUrdu() {
 
           </article>
         </Fade>
+
+
+   {/* <Fade left>
+          <article>
+            <h2> Episode 51
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-51">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 51" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 52
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-52">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 52" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 53
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-53">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 53" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+   
+{/*    
+        <Fade right>
+          <article>
+            <h2> Episode 54
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-54">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 54" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 55
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-55">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 55" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 56
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-56">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 56" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+        {/* <Fade left>
+          <article>
+            <h2> Episode 57
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-57">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 57" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 58
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-58">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 58" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 59
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-59">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 59" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+
+
+        {/* <Fade right>
+          <article>
+            <h2> Episode 60
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-60">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 60" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 61
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-61">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 61" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 62
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-62">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 62" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+{/* 
+        <Fade left>
+          <article>
+            <h2> Episode 63
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-63">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 63" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 64
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-64">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 64" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 65
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-65">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 65" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+
+        {/* <Fade right>
+          <article>
+            <h2> Episode 66
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-66">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 66" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 67
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-67">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 67" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 68
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-68">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 68" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+
+
+        {/* <Fade left>
+          <article>
+            <h2> Episode 69
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-69">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 69" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 70
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-70">
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 70" />
+              </Link>
+
+            </h2>
+
+          </article>
+
+          <article>
+            <h2> Episode 71
+              <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-71">
+
+
+                <img className="article-img" src={DirilisSeason4Pic} alt="Episode 71" />
+              </Link>
+
+            </h2>
+
+          </article>
+        </Fade> */}
+
+
    </section>
+
 
 
    
