@@ -108,6 +108,7 @@ opacity: 0.65;
 
 
 
+  
 
 
 
@@ -214,6 +215,13 @@ opacity: 0.65;
    @media screen and (max-width: 1219px) {
     .button2{
       margin-left: -900px; 
+      
+    }
+  } 
+
+  @media screen and (max-width: 500px) {
+    .button2{
+      margin-left: -820px; 
       
     }
   } 
