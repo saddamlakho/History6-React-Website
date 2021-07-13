@@ -65,7 +65,12 @@
     text-decoration: none;
   }
   
-
+  @media screen and (max-width: 500px) {
+    .button{
+      margin-left: -820px; 
+      
+    }
+  } 
   
   
   
