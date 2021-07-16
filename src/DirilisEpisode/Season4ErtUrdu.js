@@ -642,7 +642,7 @@ function Season4ErtUrdu() {
 
           </article>
 
-          {/* <article>
+           <article>
             <h2> Episode 55
               <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-55">
 
@@ -652,7 +652,7 @@ function Season4ErtUrdu() {
             </h2>
 
           </article>
-
+{/* 
           <article>
             <h2> Episode 56
               <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-56">
@@ -663,7 +663,7 @@ function Season4ErtUrdu() {
 
             </h2>
 
-          </article> */}
+          </article>  */}
         </Fade>  
 
         {/* <Fade left>
