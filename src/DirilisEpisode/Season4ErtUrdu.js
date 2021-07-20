@@ -642,7 +642,7 @@ function Season4ErtUrdu() {
 
           </article>
 
-          {/* <article>
+           <article>
             <h2> Episode 55
               <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-55">
 
@@ -663,10 +663,11 @@ function Season4ErtUrdu() {
 
             </h2>
 
-          </article> */}
-        </Fade>  
+          </article> 
+      
+      </Fade>  
 
-        {/* <Fade left>
+         <Fade left>
           <article>
             <h2> Episode 57
               <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-57">
@@ -678,7 +679,7 @@ function Season4ErtUrdu() {
 
           </article>
 
-          <article>
+           {/* <article>
             <h2> Episode 58
               <Link exact to="/dirilis-ertugrul-season4-urdu-dubbing-58">
 
@@ -699,8 +700,8 @@ function Season4ErtUrdu() {
 
             </h2>
 
-          </article>
-        </Fade> */}
+          </article> */}
+        </Fade> 
 
 
 

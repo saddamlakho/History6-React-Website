@@ -322,7 +322,7 @@ function Season2KurUrduDub() {
           
         </article>
 
-         {/* <article>
+          <article>
              <h2> Episode 26
              <Link exact to="/kurulus-osman-season2-urdu-dubbing-26">
            
@@ -342,7 +342,43 @@ function Season2KurUrduDub() {
            
             </h2>
           
-        </article>       */}
+        </article>       
+
+  </Fade>
+
+  <Fade right>
+         <article>
+          <h2> Episode 28
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-28">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 28" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+          <article>
+             <h2> Episode 29
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-29">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 29" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+            {/* <article>
+             <h2> Episode 30
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-30">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 30" />
+          </Link>
+           
+            </h2>
+          
+        </article>        */}
 
   </Fade>
 
