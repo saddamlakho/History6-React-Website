@@ -10,7 +10,7 @@
     /* margin-bottom: 400px; */
     height: 60px;
     width: 250px;
-    border: 2px solid #BFC0C0;
+    /* border: 2px solid #BFC0C0; */
     /* margin: 20px 20px 20px 20px; */
     color: #BFC0C0;
     text-transform: uppercase;
@@ -28,23 +28,14 @@
     letter-spacing: 1px;
   }
   
-  #button-3 {
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
-  }
+ 
   
-  #button-3 a {
-    position: relative;
-    transition: all .45s ease-Out;
-  }
-  
-  #circle {
+  /* #circle {
     width: 0%;
     height: 0%;
     opacity: 0;
     line-height: 40px;
-    /* border-radius: 50%; */
+ 
     background: #BFC0C0;
     position: absolute;
     transition: all .5s ease-Out;
@@ -63,7 +54,7 @@
   #button-3:hover a {
     color: #2D3142;
     text-decoration: none;
-  }
+  } */
   
   @media screen and (max-width: 500px) {
     .button{

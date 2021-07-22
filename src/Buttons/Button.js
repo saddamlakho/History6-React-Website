@@ -7,7 +7,18 @@ const Button = ({imp, text, link}) => {
             <a href={link}>{text}
             </a>
 
-        </div>
+
+    {/* //         <div className={`svg-wrapper${imp ==='secondary' ? 'button_white' : ''}`} >
+    //   <svg height="40" width="150" xmlns="">
+    //     <rect id="shape" height="40" width="150" />
+    //     <div id="text">
+    //       <a href={link}>{text}</a>
+    //     </div>
+    //   </svg>
+    // </div> */}
+
+       </div>
+        
     )
 }
 

@@ -3,7 +3,7 @@
 .subtitles_btn{
     margin-top: 650px;
     margin-left: 200px;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     padding: 100px;
     line-height: 20%;
     flex-direction: column;
@@ -55,3 +55,12 @@ h1 {
 
     }
   }
+
+
+  @media screen and (max-height: 875px) {
+    .subtitles_btn{
+     position: absolute;
+     bottom: -400% ;
+      
+    }
+  } 
