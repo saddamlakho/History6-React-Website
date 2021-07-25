@@ -12,7 +12,7 @@ function Kurulus2Urdu33() {
         <h1>Episode 33</h1>
       <div style={{ paddingTop: "56.25%", width: "100%", overflow: 'hidden', position: 'relative' }} > 
 
-    <iframe id="youtube" title="Episode 13"  className="responsive-iframe"    frameborder="0" allow="autoplay" allowfullscreen=""></iframe>       
+    <iframe id="youtube" title="Episode 13"  className="responsive-iframe"  src="https://www.youtube.com/embed/KlF3uJIk2M8"  frameborder="0" allow="autoplay" allowfullscreen=""></iframe>       
        
         </div>
         </div>

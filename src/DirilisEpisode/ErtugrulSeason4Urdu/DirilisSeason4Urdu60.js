@@ -12,7 +12,7 @@ function DirilisSeason4Urdu60() {
         <h1>Episode  60</h1>
       <div style={{ paddingTop: "56.25%", width: "100%", overflow: 'hidden', position: 'relative' }} > 
 
-    <iframe id="youtube" title="Dirilis Ertugrul"   className="responsive-iframe"    frameborder="0" allow="autoplay" allowfullscreen=""></iframe>                       
+    <iframe id="youtube" title="Dirilis Ertugrul"   className="responsive-iframe"  src="https://www.youtube.com/embed/pbx2K04pTrk"   frameborder="0" allow="autoplay" allowfullscreen=""></iframe>                       
 
         </div> 
         </div>
