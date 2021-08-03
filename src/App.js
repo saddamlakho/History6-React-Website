@@ -57,8 +57,8 @@ import Privacy from './Footer/Privacy'
  import Osman40 from './NewRealease/KurulusRealeaseEpisode/Osman40'
  import Osman41 from './NewRealease/KurulusRealeaseEpisode/Osman41'
  import Osman42 from './NewRealease/KurulusRealeaseEpisode/Osman42'
-// import Osman43 from './NewRealease/KurulusRealeaseEpisode/Osman43'
-// import Osman44 from './NewRealease/KurulusRealeaseEpisode/Osman44'
+ import Osman43 from './NewRealease/KurulusRealeaseEpisode/Osman43'
+ import Osman44 from './NewRealease/KurulusRealeaseEpisode/Osman44'
 // import Osman45 from './NewRealease/KurulusRealeaseEpisode/Osman45'
 // import Osman46 from './NewRealease/KurulusRealeaseEpisode/Osman46'
 // import Osman47 from './NewRealease/KurulusRealeaseEpisode/Osman47'
@@ -305,8 +305,8 @@ import Kurulus2Urdu19 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu19'
  import Kurulus2Urdu40 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu40'
  import Kurulus2Urdu41 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu41'
  import Kurulus2Urdu42 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu42'
-// import Kurulus2Urdu43 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu43'
-// import Kurulus2Urdu44 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu44'
+import Kurulus2Urdu43 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu43'
+ import Kurulus2Urdu44 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu44'
 // import Kurulus2Urdu45 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu45'
 // import Kurulus2Urdu46 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu46'
 // import Kurulus2Urdu47 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu47'
@@ -975,15 +975,14 @@ function App() {
            <Route exact path="/new-realease-kurulus-osman-season2-episode-40" component={Osman40} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-41" component={Osman41} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-42" component={Osman42} />    
-           {/* <Route exact path="/new-realease-kurulus-osman-season2-episode-43" component={Osman43} />    
+            <Route exact path="/new-realease-kurulus-osman-season2-episode-43" component={Osman43} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-44" component={Osman44} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-45" component={Osman45} />    
+           {/* <Route exact path="/new-realease-kurulus-osman-season2-episode-45" component={Osman45} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-46" component={Osman46} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-47" component={Osman47} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-48" component={Osman48} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-49" component={Osman49} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-50" component={Osman50} />      */}
-
 
 
 
@@ -1249,14 +1248,14 @@ function App() {
          <Route exact path="/kurulus-osman-season2-urdu-dubbing-40" component={Kurulus2Urdu40} />
          <Route exact path="/kurulus-osman-season2-urdu-dubbing-41" component={Kurulus2Urdu41} />
          <Route exact path="/kurulus-osman-season2-urdu-dubbing-42" component={Kurulus2Urdu42} />
-        {/* // <Route exact path="/kurulus-osman-season2-urdu-dubbing-43" component={Kurulus2Urdu43} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-44" component={Kurulus2Urdu44} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-45" component={Kurulus2Urdu45} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-46" component={Kurulus2Urdu46} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-47" component={Kurulus2Urdu47} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-48" component={Kurulus2Urdu48} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-49" component={Kurulus2Urdu49} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-50" component={Kurulus2Urdu50} />      */}
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-43" component={Kurulus2Urdu43} />
+        <Route exact path="/kurulus-osman-season2-urdu-dubbing-44" component={Kurulus2Urdu44} />
+        {/* // <Route exact path="/kurulus-osman-season2-urdu-dubbing-45" component={Kurulus2Urdu45} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-46" component={Kurulus2Urdu46} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-47" component={Kurulus2Urdu47} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-48" component={Kurulus2Urdu48} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-49" component={Kurulus2Urdu49} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-50" component={Kurulus2Urdu50} />      */}
 
 
  

@@ -499,9 +499,9 @@ function Season2KurUrduDub() {
             <img className="article-img" src={KurulusPic2} alt="Episode 40" />
           </Link>
            
+      
             </h2>
-          
-        </article>
+            </article>
 
             <article>
              <h2> Episode 41
@@ -526,6 +526,78 @@ function Season2KurUrduDub() {
         </article>           
 
   </Fade> 
+
+  <Fade left>
+         <article>
+          <h2> Episode 43
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-43">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 43" />
+          </Link>
+           
+      
+            </h2>
+            </article>
+
+            <article>
+             <h2> Episode 44
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-44">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 44" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+              {/* <article>
+             <h2> Episode 45
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-45">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 45" />
+          </Link>
+           
+            </h2>
+    
+        </article>            */}
+
+  </Fade> 
+
+  {/* <Fade left>
+         <article>
+          <h2> Episode 46
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-46">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 46" />
+          </Link>
+           
+      
+            </h2>
+            </article>
+
+            <article>
+             <h2> Episode 47
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-47">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 47" />
+          </Link>
+           
+            </h2>
+          
+        </article>
+
+              <article>
+             <h2> Episode 48
+             <Link exact to="/kurulus-osman-season2-urdu-dubbing-48">
+           
+            <img className="article-img" src={KurulusPic2} alt="Episode 48" />
+          </Link>
+           
+            </h2>
+    
+        </article>           
+
+  </Fade>  */}
 </section>
 
     
