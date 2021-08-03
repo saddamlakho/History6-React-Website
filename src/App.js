@@ -51,18 +51,12 @@ import Privacy from './Footer/Privacy'
 //NEW Realease//
 
 
-   import Osman31 from './NewRealease/KurulusRealeaseEpisode/Osman31'
-   import Osman32 from './NewRealease/KurulusRealeaseEpisode/Osman32'
-   import Osman33 from './NewRealease/KurulusRealeaseEpisode/Osman33'
-   import Osman34 from './NewRealease/KurulusRealeaseEpisode/Osman34'
-// import Osman35 from './NewRealease/KurulusRealeaseEpisode/Osman35'
-// import Osman36 from './NewRealease/KurulusRealeaseEpisode/Osman36'
-// import Osman37 from './NewRealease/KurulusRealeaseEpisode/Osman37'
-// import Osman38 from './NewRealease/KurulusRealeaseEpisode/Osman38'
-// import Osman39 from './NewRealease/KurulusRealeaseEpisode/Osman39'
-// import Osman40 from './NewRealease/KurulusRealeaseEpisode/Osman40'
-// import Osman41 from './NewRealease/KurulusRealeaseEpisode/Osman41'
-// import Osman42 from './NewRealease/KurulusRealeaseEpisode/Osman42'
+
+
+ import Osman39 from './NewRealease/KurulusRealeaseEpisode/Osman39'
+ import Osman40 from './NewRealease/KurulusRealeaseEpisode/Osman40'
+ import Osman41 from './NewRealease/KurulusRealeaseEpisode/Osman41'
+ import Osman42 from './NewRealease/KurulusRealeaseEpisode/Osman42'
 // import Osman43 from './NewRealease/KurulusRealeaseEpisode/Osman43'
 // import Osman44 from './NewRealease/KurulusRealeaseEpisode/Osman44'
 // import Osman45 from './NewRealease/KurulusRealeaseEpisode/Osman45'
@@ -79,15 +73,12 @@ import Privacy from './Footer/Privacy'
 
 
 
- import Dirilis59 from './NewRealease/DirilisRealeaseEpisode/Dirilis59'
- import Dirilis60 from './NewRealease/DirilisRealeaseEpisode/Dirilis60'
- import Dirilis61 from './NewRealease/DirilisRealeaseEpisode/Dirilis61'
-// import Dirilis62 from './NewRealease/DirilisRealeaseEpisode/Dirilis62'
-// import Dirilis63 from './NewRealease/DirilisRealeaseEpisode/Dirilis63'
-// import Dirilis64 from './NewRealease/DirilisRealeaseEpisode/Dirilis64'
-// import Dirilis65 from './NewRealease/DirilisRealeaseEpisode/Dirilis65'
-// import Dirilis66 from './NewRealease/DirilisRealeaseEpisode/Dirilis66'
-// import Dirilis67 from './NewRealease/DirilisRealeaseEpisode/Dirilis67'
+
+
+ import Dirilis64 from './NewRealease/DirilisRealeaseEpisode/Dirilis64'
+ import Dirilis65 from './NewRealease/DirilisRealeaseEpisode/Dirilis65'
+ import Dirilis66 from './NewRealease/DirilisRealeaseEpisode/Dirilis66'
+ import Dirilis67 from './NewRealease/DirilisRealeaseEpisode/Dirilis67'
 // import Dirilis68 from './NewRealease/DirilisRealeaseEpisode/Dirilis68'
 // import Dirilis69 from './NewRealease/DirilisRealeaseEpisode/Dirilis69'
 // import Dirilis70 from './NewRealease/DirilisRealeaseEpisode/Dirilis70'
@@ -306,14 +297,14 @@ import Kurulus2Urdu19 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu19'
  import Kurulus2Urdu32 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu32'
  import Kurulus2Urdu33 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu33'
  import Kurulus2Urdu34 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu34'
-// import Kurulus2Urdu35 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu35'
-// import Kurulus2Urdu36 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu36'
-// import Kurulus2Urdu37 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu37'
-// import Kurulus2Urdu38 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu38'
-// import Kurulus2Urdu39 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu39'
-// import Kurulus2Urdu40 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu40'
-// import Kurulus2Urdu41 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu41'
-// import Kurulus2Urdu42 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu42'
+ import Kurulus2Urdu35 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu35'
+ import Kurulus2Urdu36 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu36'
+ import Kurulus2Urdu37 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu37'
+ import Kurulus2Urdu38 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu38'
+ import Kurulus2Urdu39 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu39'
+ import Kurulus2Urdu40 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu40'
+ import Kurulus2Urdu41 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu41'
+ import Kurulus2Urdu42 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu42'
 // import Kurulus2Urdu43 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu43'
 // import Kurulus2Urdu44 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu44'
 // import Kurulus2Urdu45 from './KurulusEpisode/KurulusUrdu2Episode/Kurulus2Urdu45'
@@ -896,12 +887,12 @@ import DirilisSeason4Urdu50 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSe
  import DirilisSeason4Urdu59 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu59'
  import DirilisSeason4Urdu60 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu60'
  import DirilisSeason4Urdu61 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu61'
-// import DirilisSeason4Urdu62 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu62'
-// import DirilisSeason4Urdu63 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu63'
-// import DirilisSeason4Urdu64 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu64'
-// import DirilisSeason4Urdu65 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu65'
-// import DirilisSeason4Urdu66 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu66'
-// import DirilisSeason4Urdu67 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu67'
+ import DirilisSeason4Urdu62 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu62'
+ import DirilisSeason4Urdu63 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu63'
+ import DirilisSeason4Urdu64 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu64'
+ import DirilisSeason4Urdu65 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu65'
+ import DirilisSeason4Urdu66 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu66'
+ import DirilisSeason4Urdu67 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu67'
 // import DirilisSeason4Urdu68 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu68'
 // import DirilisSeason4Urdu69 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu69'
 // import DirilisSeason4Urdu70 from './DirilisEpisode/ErtugrulSeason4Urdu/DirilisSeason4Urdu70'
@@ -978,26 +969,20 @@ function App() {
 
            {/* //New Realease// */}
 
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-31" component={Osman31} />
-            <Route exact path="/new-realease-kurulus-osman-season2-episode-32" component={Osman32} />
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-33" component={Osman33} />
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-34" component={Osman34} />
-           {/* <Route exact path="/new-realease-kurulus-osman-season2-episode-35" component={Osman35} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-36" component={Osman36} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-37" component={Osman37} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-38" component={Osman38} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-39" component={Osman39} />    
+
+         
+            <Route exact path="/new-realease-kurulus-osman-season2-episode-39" component={Osman39} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-40" component={Osman40} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-41" component={Osman41} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-42" component={Osman42} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-43" component={Osman43} />    
+           {/* <Route exact path="/new-realease-kurulus-osman-season2-episode-43" component={Osman43} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-44" component={Osman44} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-45" component={Osman45} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-46" component={Osman46} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-47" component={Osman47} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-48" component={Osman48} />    
            <Route exact path="/new-realease-kurulus-osman-season2-episode-49" component={Osman49} />    
-           <Route exact path="/new-realease-kurulus-osman-season2-episode-50" component={Osman50} />     */}
+           <Route exact path="/new-realease-kurulus-osman-season2-episode-50" component={Osman50} />      */}
 
 
 
@@ -1006,18 +991,15 @@ function App() {
 
 
 
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-59" component={Dirilis59} />
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-60" component={Dirilis60} />
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-61" component={Dirilis61} />
-           {/* <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-62" component={Dirilis62} />
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-63" component={Dirilis63} />
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-64" component={Dirilis64} />    
+     
+       
+            <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-64" component={Dirilis64} />    
            <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-65" component={Dirilis65} />    
            <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-66" component={Dirilis66} />    
            <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-67" component={Dirilis67} />    
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-68" component={Dirilis68} />    
+           {/* <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-68" component={Dirilis68} />    
            <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-69" component={Dirilis69} />    
-           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-70" component={Dirilis70} />     */}
+           <Route exact path="/new-realease-dirilis-ertugrul-season4-episode-70" component={Dirilis70} />      */}
 
 
 
@@ -1259,22 +1241,22 @@ function App() {
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-32" component={Kurulus2Urdu32} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-33" component={Kurulus2Urdu33} />
         <Route exact path="/kurulus-osman-season2-urdu-dubbing-34" component={Kurulus2Urdu34} />
-        {/* // <Route exact path="/kurulus-osman-season2-urdu-dubbing-35" component={Kurulus2Urdu35} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-36" component={Kurulus2Urdu36} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-37" component={Kurulus2Urdu37} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-38" component={Kurulus2Urdu38} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-39" component={Kurulus2Urdu39} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-40" component={Kurulus2Urdu40} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-41" component={Kurulus2Urdu41} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-42" component={Kurulus2Urdu42} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-43" component={Kurulus2Urdu43} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-35" component={Kurulus2Urdu35} />
+        <Route exact path="/kurulus-osman-season2-urdu-dubbing-36" component={Kurulus2Urdu36} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-37" component={Kurulus2Urdu37} />
+        <Route exact path="/kurulus-osman-season2-urdu-dubbing-38" component={Kurulus2Urdu38} />
+          <Route exact path="/kurulus-osman-season2-urdu-dubbing-39" component={Kurulus2Urdu39} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-40" component={Kurulus2Urdu40} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-41" component={Kurulus2Urdu41} />
+         <Route exact path="/kurulus-osman-season2-urdu-dubbing-42" component={Kurulus2Urdu42} />
+        {/* // <Route exact path="/kurulus-osman-season2-urdu-dubbing-43" component={Kurulus2Urdu43} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-44" component={Kurulus2Urdu44} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-45" component={Kurulus2Urdu45} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-46" component={Kurulus2Urdu46} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-47" component={Kurulus2Urdu47} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-48" component={Kurulus2Urdu48} />
         // <Route exact path="/kurulus-osman-season2-urdu-dubbing-49" component={Kurulus2Urdu49} />
-        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-50" component={Kurulus2Urdu50} />     */}
+        // <Route exact path="/kurulus-osman-season2-urdu-dubbing-50" component={Kurulus2Urdu50} />      */}
 
 
  
@@ -1882,15 +1864,15 @@ function App() {
          <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-59" component={DirilisSeason4Urdu59} />
          <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-60" component={DirilisSeason4Urdu60} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-61" component={DirilisSeason4Urdu61} />
-        {/* <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-62" component={DirilisSeason4Urdu62} />
+         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-62" component={DirilisSeason4Urdu62} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-63" component={DirilisSeason4Urdu63} />
-        <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-64" component={DirilisSeason4Urdu64} />
+         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-64" component={DirilisSeason4Urdu64} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-65" component={DirilisSeason4Urdu65} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-66" component={DirilisSeason4Urdu66} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-67" component={DirilisSeason4Urdu67} />
-        <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-68" component={DirilisSeason4Urdu68} />
+        {/* <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-68" component={DirilisSeason4Urdu68} />
         <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-69" component={DirilisSeason4Urdu69} />
-        <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-70" component={DirilisSeason4Urdu70} />     */}
+        <Route exact path="/dirilis-ertugrul-season4-urdu-dubbing-70" component={DirilisSeason4Urdu70} />      */} */}
 
 
  
